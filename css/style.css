@@ -91,7 +91,7 @@ img {
     min-height: 100vh;
 }
 #home .page-title {
-    text-transform: none; /*全角指定なし*/
+    text-transform: none;
 }
 
 /* NEWS */
