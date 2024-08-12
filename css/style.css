@@ -26,7 +26,7 @@ img {
     display: flex;
     font-size: 1.25rem;
 <<<<<<< HEAD
-    text-transform: uppercase; /*リスト大文字指定*/
+    text-transform: uppercase;
 =======
     text-transform: uppercase;
 >>>>>>> c0353aa0d51a29329ed7c56466ea3761e2d7c546
@@ -35,13 +35,13 @@ img {
 }
 .main-nav li {
 <<<<<<< HEAD
-    margin-left: 36px; /*リスト左に空欄*/
+    margin-left: 36px;
 }
 .main-nav a {
-    color: #432; /*リストカラー*/
+    color: #432;
 }
 .main-nav a:hover {
-    color: #8bd; /*リストホバーカラー*/
+    color: #8bd;
 =======
     margin-left: 36px;
 }
@@ -56,12 +56,12 @@ img {
 .page-header {
     display: flex;
 <<<<<<< HEAD
-    justify-content: space-between; /*均等表示左右*/
+    justify-content: space-between;
 }
 .wrapper {
-    max-width: 1100px; /*大画面用最大値*/
-    margin: 0 auto; /*左右中央表示*/
-    padding: 0 4%; /*スマホ向け外余白*/
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 4%;
 =======
     justify-content: space-between;
 }
@@ -75,11 +75,11 @@ img {
 
 /* home */
 <<<<<<< HEAD
-.home-content { /*We'll Make Your Day～メニューを見る*/
+.home-content {
     text-align: center;
     margin-top: 10%;
 }
-.home-content p { /*おしゃれなカフェで瓷やされてみませんか?無添加の食材で体の中からリフレッシュ。*/
+.home-content p {
 =======
 .home-content {
     text-align: center;
@@ -105,7 +105,7 @@ img {
     background: #0bd;
     color: #fff;
 <<<<<<< HEAD
-    border-radius: 5px; /*ボタン角丸*/
+    border-radius: 5px;
 =======
     border-radius: 5px;
 >>>>>>> c0353aa0d51a29329ed7c56466ea3761e2d7c546
